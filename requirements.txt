@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+tensorflow>=2.16,<2.18
+numpy<2
+Pillow>=10
